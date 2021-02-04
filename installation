@@ -27,7 +27,6 @@ Then start tomcat with the code below
 /opt/tomcat8/bin/startup.sh
 
 
-stop tomcat before proceeding to avoid error. 
 
 ii. configure tomcat as a service
 
